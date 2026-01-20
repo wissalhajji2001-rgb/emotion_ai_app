@@ -268,6 +268,6 @@ Les contributions sont les bienvenues ! Voici comment participer :
 ---
 
 <p align="center">
-  Fait avec ❤️ par Wissal HAJJI et Ali Badidi
+  Fait avec ❤️ par Wissal HAJJI et Ali BADIDI
 </p>
 
