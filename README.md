@@ -267,33 +267,7 @@ Les contributions sont les bienvenues ! Voici comment participer :
 
 ---
 
-## 📄 Licence
-
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-## 👤 Auteur
-
-**Wissal HAJJI**
-
-- GitHub: [@wissalhajji2001-rgb](https://github.com/wissalhajji2001-rgb)
-
----
-
-## 🙏 Remerciements
-
-- [Streamlit](https://streamlit.io/) - Framework web Python
-- [OpenCV](https://opencv.org/) - Traitement d'images
-- [Groq](https://groq.com/) - API LLM gratuite
-- [Anthropic](https://anthropic.com/) - Claude AI
-
----
-
 <p align="center">
-  Fait avec ❤️ par Wissal HAJJI
+  Fait avec ❤️ par Wissal HAJJI et Ali Badidi
 </p>
 
-<p align="center">
-  ⭐ N'oubliez pas de mettre une étoile si ce projet vous a été utile !
-</p>
