@@ -1,0 +1,35 @@
+# Emotion AI Application - Dependencies (Version Légère)
+# Stack: Streamlit + SQLite + Claude API
+# Sans TensorFlow/PyTorch pour une installation plus facile
+
+# Web Framework
+streamlit>=1.28.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Authentication
+bcrypt>=4.0.0
+pyjwt>=2.8.0
+
+# Computer Vision (léger)
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+
+# AI Conversational
+anthropic>=0.18.0
+
+# Data Visualization
+plotly>=5.18.0
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+
+# Webcam pour Streamlit
+streamlit-webrtc>=0.47.0
+av>=10.0.0
+
+# Deep Face (alternative légère à FER - optionnel)
+# deepface>=0.0.79
