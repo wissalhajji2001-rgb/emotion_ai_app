@@ -267,7 +267,14 @@ Les contributions sont les bienvenues ! Voici comment participer :
 
 ---
 
+## 📄 Licence
+
+Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
+
 <p align="center">
   Fait avec ❤️ par Wissal HAJJI et Ali BADIDI
 </p>
+
 
